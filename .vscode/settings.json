@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "Insertion in array.C": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "Deletion_in_array_by_CodeWithHarry.C": "cpp",
+        "initializer_list": "cpp"
+    }
+}
